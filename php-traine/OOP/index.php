@@ -39,5 +39,12 @@
         //require ('ls6.php'); 
     ?>
 
+
+    <!--ls 9
+        -extend - наследование
+        -->
+    <?php
+        require ('ls9.php'); 
+    ?>
 </body>
 </html>
