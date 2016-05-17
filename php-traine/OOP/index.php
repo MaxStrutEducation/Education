@@ -44,7 +44,28 @@
         -extend - наследование
         -->
     <?php
-        require ('ls9.php'); 
+//        require ('ls9.php');
+    ?>
+
+    <!--ls 10
+        Полиморфизм, инкасуляция
+        -->
+    <?php
+//    require ('ls10.php');
+    ?>
+
+    <!--ls 11
+        Абстрактніє методи
+        -->
+    <?php
+//        require ('ls11.php');
+    ?>
+
+    <!--ls 11
+        Абстрактніє методи
+        -->
+    <?php
+    require ('ls11.php');
     ?>
 </body>
 </html>
