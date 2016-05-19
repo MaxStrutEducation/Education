@@ -19,12 +19,12 @@ $VersatileTriangle = new VersatileTriangle($PostSideA, $PostSideB, $PostSideC);
 
 //масив виводу всіх трикутникуів
 $AllTriangle = array(
-  $Oxygon,
-  $RightTriangle,
-  $EquilateralTriangle,
-  $IsoscelesTriangle,
-  $ObtuseTriangle,
-  $VersatileTriangle,
+    $Oxygon,
+    $RightTriangle,
+    $EquilateralTriangle,
+    $IsoscelesTriangle,
+    $ObtuseTriangle,
+    $VersatileTriangle,
 );
 
 /**
@@ -47,4 +47,3 @@ if (!empty($_POST)) {
 } else {
   include_once('view/form.php');
 }
-
