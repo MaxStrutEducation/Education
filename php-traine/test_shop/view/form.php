@@ -44,7 +44,6 @@
         $section_name = $_REQUEST['section_name'];
         $section_description = $_REQUEST['section_description'];
         $section_price = $_REQUEST['section_price'];
-      
       ?>
 
   </div>
